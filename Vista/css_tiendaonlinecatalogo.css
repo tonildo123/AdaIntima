@@ -100,3 +100,12 @@ header{
   color: #fff;
 }
 
+.row{
+  margin-bottom: 20px;
+}
+.col-md-4{
+  margin-bottom: 20px;
+}
+.card-text{
+  word-wrap: auto;
+}
